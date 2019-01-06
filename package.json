@@ -1,0 +1,15 @@
+{
+  "name": "thomas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-font-spider": "^0.3.6",
+    "gulp-watch": "^5.0.1"
+  }
+}
